@@ -1,0 +1,4 @@
+Dataset,Total_Prompts,Nb_FR,Nb_EN,Pourcent_FR,Pourcent_EN
+UltraFeedback,63967,422,55864,0.66,87.33
+OpenAssistant OASST1,31525,967,13620,3.07,43.2
+Anthropic HH-RLHF,30000,84,27405,0.28,91.35
