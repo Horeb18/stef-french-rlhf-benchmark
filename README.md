@@ -71,7 +71,7 @@ Le détail brut : [`benchmark_french_rlhf_results.csv`](benchmark_french_rlhf_re
 
 ## Reproduire
 
-1. Ouvrir [`stef_french_rlhf_benchmark.ipynb`](stef_french_rlhf_benchmark.ipynb) dans [Google Colab](https://colab.research.google.com/)
+1. 1. Ouvrir [`staiph_french_rlhf_benchmark.ipynb`](staiph_french_rlhf_benchmark.ipynb) dans [Google Colab](https://colab.research.google.com/)
 2. Créer un token Hugging Face (lecture seule) sur [huggingface.co/settings/tokens](https://huggingface.co/settings/tokens)
 3. Coller le token dans la cellule `# Connexion à Hugging Face`
 4. Accepter les conditions d'usage des 3 datasets sur Hugging Face si demandé
